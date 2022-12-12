@@ -4,7 +4,7 @@ const { createApp } = Vue
         data() {
         return {
             message: 'Vue test',
-            image: '/img/vuejs.jpg'
+            image: './img/vuejs.jpg'
 
         }
         }
